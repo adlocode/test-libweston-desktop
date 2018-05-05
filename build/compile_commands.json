@@ -1,7 +1,0 @@
-[
-  {
-    "directory": "/home/adlo/test-libweston-desktop/build",
-    "command": "cc  -Itest-libweston-desktop@exe -I. -I.. -I/home/adlo/install/include -I/home/adlo/install/include/libweston-5 -I/usr/include/pixman-1 -I/usr/include/libdrm -I/usr/include/libevdev-1.0/ -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -Og -MD -MQ 'test-libweston-desktop@exe/main.c.o' -MF 'test-libweston-desktop@exe/main.c.o.d' -o 'test-libweston-desktop@exe/main.c.o' -c ../main.c",
-    "file": "../main.c"
-  }
-]
